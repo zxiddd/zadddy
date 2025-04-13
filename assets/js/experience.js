@@ -76,10 +76,10 @@ const exp = [
                   time: "(2024-2025)",
                   desp:"Managed and optimized all social media platforms, crafting engaging content and strategic campaigns to amplify brand presence. Developed and executed innovative marketing strategies that not only boosted sales but also drove customer engagement and brand loyalty. "
                   },
-  {
+                {
 
                 title: "NSUI",
-                  cardImage: "assets/images/experience-page/NSUI.jpg",
+                  cardImage: "assets/images/experience-page/nsui.jpg",
                   place: "Social Media Manager",
                   time: "(2024-2025)",
                   desp:"It was a political party managed and led several sucessfull campaingens for them and got the desired results for congress. "
