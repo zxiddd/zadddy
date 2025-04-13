@@ -56,10 +56,26 @@ const exp = [
             {
               title: "Charcoal Shawarma Station",
               cardImage: "assets/images/experience-page/charcoal.png",
-              place: "Marketeer",
+              place: "Social Media Manager",
               time: "(2024-present)",
               desp:"Managed and optimized all social media platforms, crafting engaging content and strategic campaigns to amplify brand presence. Developed and executed innovative marketing strategies that not only boosted sales but also drove customer engagement and brand loyalty. "
               },
+
+              {
+                title: "Pista House",
+                cardImage: "assets/images/experience-page/pista.png",
+                place: "Social Media Manager",
+                time: "(2024-2025)",
+                desp:"Managed and optimized all social media platforms, crafting engaging content and strategic campaigns to amplify brand presence. Developed and executed innovative marketing strategies that not only boosted sales but also drove customer engagement and brand loyalty. "
+                },
+
+                {
+                  title: "Shawafel",
+                  cardImage: "assets/images/experience-page/shaw.jpg",
+                  place: "Social Media Manager",
+                  time: "(2024-2025)",
+                  desp:"Managed and optimized all social media platforms, crafting engaging content and strategic campaigns to amplify brand presence. Developed and executed innovative marketing strategies that not only boosted sales but also drove customer engagement and brand loyalty. "
+                  },
  
 ];
 
