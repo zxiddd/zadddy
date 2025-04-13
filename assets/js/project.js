@@ -8,7 +8,7 @@ const projects = [
   {
     title: "ZAID",
     cardImage: "assets/images/project-page/zaid.jpeg",
-    description: "Founder adn Manager",
+    description: "Founder & Manager",
     
   },
   {
@@ -20,21 +20,21 @@ const projects = [
   {
     title: "Mujtaba hussain",
     cardImage: "assets/images/project-page/mujataba.jpeg",
-    description: "Designer",
+    description: "Graphics Designer",
     
   },
 
   {
     title: "Syed Moosa",
     cardImage: "assets/images/project-page/moosa.jpeg",
-    description: "Editor",
+    description: "Video Editor",
     
   },
 
   {
     title: "Siddhart Wali",
     cardImage: "assets/images/project-page/sid.jpeg",
-    description: "Content Analyser",
+    description: "Photographer",
    
   },
  
