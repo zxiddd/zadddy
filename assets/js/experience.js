@@ -79,7 +79,7 @@ const exp = [
                 {
 
                 title: "NSUI",
-                  cardImage: "assets/images/experience-page/nsui.jpg",
+                  cardImage: "assets/images/experience-page/nsui.jpeg",
                   place: "Social Media Manager",
                   time: "(2024-2025)",
                   desp:"It was a political party managed and led several sucessfull campaingens for them and got the desired results for congress. "
